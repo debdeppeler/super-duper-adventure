@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 test file add
+=======
+just testing
+>>>>>>> b6fcb3b6e9df9e3d380d6a595550775aff24873c
